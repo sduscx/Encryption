@@ -1,0 +1,35 @@
+﻿  crypt.cpp
+  another.cpp
+f:\密码学实验\crypt\crypt\tomcrypt.h(82): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+f:\密码学实验\crypt\crypt\tomcrypt_cfg.h(33): warning C4273: 'malloc': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_malloc.h(97): note: see previous definition of 'malloc'
+f:\密码学实验\crypt\crypt\tomcrypt_cfg.h(34): warning C4273: 'realloc': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_malloc.h(116): note: see previous definition of 'realloc'
+f:\密码学实验\crypt\crypt\tomcrypt_cfg.h(35): warning C4273: 'calloc': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_malloc.h(62): note: see previous definition of 'calloc'
+f:\密码学实验\crypt\crypt\tomcrypt_cfg.h(36): warning C4273: 'free': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_malloc.h(85): note: see previous definition of 'free'
+f:\密码学实验\crypt\crypt\tomcrypt_cfg.h(38): warning C4273: 'qsort': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_search.h(53): note: see previous definition of 'qsort'
+f:\密码学实验\crypt\crypt\tomcrypt_cfg.h(42): warning C4273: 'clock': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(137): note: see previous definition of 'clock'
+f:\密码学实验\crypt\crypt\another.cpp(164): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (936)
+f:\密码学实验\crypt\crypt\another.cpp(192): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (936)
+f:\密码学实验\crypt\crypt\another.cpp(213): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (936)
+f:\密码学实验\crypt\crypt\another.cpp(236): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (936)
+f:\密码学实验\crypt\crypt\another.cpp(333): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (936)
+f:\密码学实验\crypt\crypt\another.cpp(164): warning C4474: 'printf' : too many arguments passed for format string
+  f:\密码学实验\crypt\crypt\another.cpp(164): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+f:\密码学实验\crypt\crypt\another.cpp(192): warning C4474: 'printf' : too many arguments passed for format string
+  f:\密码学实验\crypt\crypt\another.cpp(192): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+f:\密码学实验\crypt\crypt\another.cpp(213): warning C4474: 'printf' : too many arguments passed for format string
+  f:\密码学实验\crypt\crypt\another.cpp(213): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+f:\密码学实验\crypt\crypt\another.cpp(236): warning C4474: 'printf' : too many arguments passed for format string
+  f:\密码学实验\crypt\crypt\another.cpp(236): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+f:\密码学实验\crypt\crypt\another.cpp(333): warning C4474: 'printf' : too many arguments passed for format string
+  f:\密码学实验\crypt\crypt\another.cpp(333): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Source.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Crypt.vcxproj -> F:\密码学实验\Crypt\Debug\Crypt.exe
+  Crypt.vcxproj -> F:\密码学实验\Crypt\Debug\Crypt.pdb (Partial PDB)
